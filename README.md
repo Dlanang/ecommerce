@@ -1,6 +1,9 @@
 QQ Marketplace - Platform Jual Beli Online Terpercaya
 Build Status License: MIT
 
+[![Build Status](https://img.shields.io/badge/Build-Passing-green?style=flat-square)](https://github.com/[nama-pengguna]/QQ-Marketplace)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 QQ Marketplace adalah platform e-commerce yang menghubungkan penjual dan pembeli dalam lingkungan yang aman dan terpercaya. Kami menyediakan berbagai fitur untuk mempermudah transaksi jual beli online.
 
 1. Deskripsi
